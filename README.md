@@ -1,8 +1,8 @@
-# Your Project Name
+# Readme Boilerplate
 
 A template of README best practices to make your README simple to understand and easy to use. 
 
-![Screenshot of Your Project Name](/screenshot.png)
+![Screenshot of Readme Boilerplate](/screenshot.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,7 +18,7 @@ A template of README best practices to make your README simple to understand and
 Download to your project directory, add `README.md`, and commit:
 
 ```sh
-// Write installation here
+# Write installation here
 ```
 
 ## Usage
@@ -37,24 +37,24 @@ Replace the contents of `README.md` with your project's:
 **Example 01**
 
 ```sh
-// Write Example 01 here
+# Write Example 01 here
 ```
 
 **Example 02**
 
 ```sh
-// Write Example 02 here
+# Write Example 02 here
 ```
 
 Feel free to remove any sections that aren't applicable to your project.
 
 ## Support
 
-Please [open an issue](/issues/new) for support.
+Please [open an issue](https://github.com/nandomoreirame/readme-boilerplate/issues/new) for support.
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](/compare?expand=1).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/nandomoreirame/readme-boilerplate/compare?expand=1).
 Contributing
 
 1. Fork it!
@@ -65,7 +65,7 @@ Contributing
 
 ## History
 
-See [Releases](/releases) for detailed changelog.
+See [Releases](https://github.com/nandomoreirame/readme-boilerplate/releases) for detailed changelog.
 
 ## License
 
