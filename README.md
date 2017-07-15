@@ -67,6 +67,12 @@ Contributing
 
 See [Releases](https://github.com/nandomoreirame/readme-boilerplate/releases) for detailed changelog.
 
+## Author
+
+| [![twitter/umdevux](https://avatars6.githubusercontent.com/u/1318271?v=4&s=70)](http://twitter.com/umdevux "Follow @umdevUX on Twitter") |
+|---|
+| [Fernando Moreira](https://nandomoreira.me/) |
+
 ## License
 
 Code is under [MIT License](/LICENSE) - © Fernando Moreira
