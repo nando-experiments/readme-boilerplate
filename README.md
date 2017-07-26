@@ -69,9 +69,9 @@ See [Releases](https://github.com/nandomoreirame/readme-boilerplate/releases) fo
 
 ## Author
 
-| [![twitter/umdevux](https://avatars6.githubusercontent.com/u/1318271?v=4&s=70)](http://twitter.com/umdevux "Follow @umdevUX on Twitter") |
+| [![twitter/umdevux](https://avatars6.githubusercontent.com/u/1318271?v=4&s=120)](http://twitter.com/umdevux "Follow @umdevUX on Twitter") |
 |---|
-| [Fernando Moreira](https://nandomoreira.me/) |
+| [Fernando Moreira](http://twitter.com/umdevux) |
 
 ## License
 
