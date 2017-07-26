@@ -1,8 +1,8 @@
-# Readme Boilerplate
+# My Readme Boilerplate
 
-A template of README best practices to make your README simple to understand and easy to use. 
+A template of README best practices to make my README simple to understand and easy to use. 
 
-![Screenshot of Readme Boilerplate](/screenshot.png)
+![Screenshot of My Readme Boilerplate](/screenshot.png)
 
 ## Table of Contents
 - [Installation](#installation)
